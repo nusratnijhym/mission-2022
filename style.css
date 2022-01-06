@@ -1,0 +1,109 @@
+*
+{ box-sizing: border-box;
+
+
+
+}
+
+
+body{}
+h1{ font-family: 'Tinos', serif;
+    
+    font-size: 60px; 
+
+
+}
+h4{
+
+    color: lightslategray;
+    font-size: 15px;
+}
+
+.h5{
+    color: rgb(112, 123, 134);
+}
+
+.ore{color: orange;
+}
+section
+{
+    display: flex;
+}
+.half-whide
+{
+    width: 50%;
+    padding: 5%;
+}
+
+.half-whide img{
+    width: 85%;
+    
+}
+.button{text-decoration: none;
+    background-color: orangered;
+    padding: 10PX 20px;
+     color: white;
+    border-radius: 5px;
+}
+.three{ width: 50%%;
+    padding: 5%;
+    
+    }
+    .three img{
+        width: 80%;
+    
+    }
+    .big{
+        font-size: 30px;
+    }
+    .soso{ width: 50%%;
+        padding: 5%;
+        
+        }
+        .soso img{
+            width: 70%;
+        margin-right: 25px;
+        }
+        .small{
+            font-size: 40px;
+        }
+        /* footer part */
+        footer 
+    {
+        background-color: black;
+        color: blanchedalmond;
+        text-align: center;
+        padding: 20px 0;
+    }
+    footer h1{
+        font-size: 40px;
+    }
+
+    footer h1 span{
+        color: orangered;
+    }
+    .row{
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        padding: 0 5%;
+    }
+    .row img{
+        width: 100px ;
+    }
+    .center{
+        text-align: center;
+
+    }
+    .center span{
+        color: orangered;
+
+    }
+
+    .col{
+        background-color: palegreen;
+        width: 30%;
+        padding: 10PX;
+        border-radius: 10px;
+    }
+    
