@@ -93,6 +93,7 @@ section
     }
     .center{
         text-align: center;
+        font-size: 40px;
 
     }
     .center span{
@@ -106,4 +107,15 @@ section
         padding: 10PX;
         border-radius: 10px;
     }
+    #col1{
+        background-color: lightsteelblue;
+    }
+    #col2{
+        background-color: rgb(188, 128, 196);
+    }
+    
+    #col3{
+        background-color: navajowhite;
+    }
+     
     
